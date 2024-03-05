@@ -4,5 +4,5 @@ yfinance
 keras
 datetime
 plotly
-sscikit-learn
+scikit-learn
 -e .
